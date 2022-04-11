@@ -1,4 +1,4 @@
-Dumbass that barely knows C++
+
 
 <!---
 barn-advisor/barn-advisor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
